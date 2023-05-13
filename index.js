@@ -8,6 +8,8 @@ document.querySelectorAll("button")[i].addEventListener("click",function(){
 
            
 
+
+
 document.addEventListener("keydown",function(event){
   
 playMusic(event.key);
